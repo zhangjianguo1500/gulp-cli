@@ -79,7 +79,9 @@ PC端项目，我们推荐使用Gulp，Gulp基于nodejs中stream，工作流，�
     得到gulp的版本号，确认安装成功
 
 基础安装结束
-
+```
+npm install babel-core@6.18.2 babel-loader@6.2.8 babel-plugin-syntax-export-extensions@6.13.0 babel-plugin-transform-es2015-modules-commonjs@6.24.1 babel-plugin-transform-es3-member-expression-literals@6.8.0 babel-plugin-transform-es3-property-literals@6.8.0 babel-plugin-transform-jscript@6.8.0 babel-plugin-transform-object-assign@6.8.0 babel-plugin-transform-runtime@6.15.0 babel-plugin-transform-undefined-to-void@6.8.0 babel-preset-es2015@6.18.0 babel-preset-es2015-loose@8.0.0 babel-preset-stage-0@6.24.1 browser-sync@2.18.2 browserify@13.1.1 del@2.2.2 glob@7.1.1 gulp@3.9.1 gulp-autoprefixer@3.1.1 gulp-babel@6.1.2 gulp-cache@0.4.6 gulp-clean@0.3.2 gulp-eslint@3.0.1 gulp-file-include@1.1.0 gulp-htmlmin@3.0.0 gulp-if@2.0.2 gulp-imagemin@3.3.0 gulp-minify-css@1.2.4 gulp-notify@2.2.0 gulp-plumber@1.1.0 gulp-sass@2.3.2 gulp-sequence@0.4.6 gulp-traceur-compiler@1.1.4 gulp-uglify@2.1.2 gulp-util@3.0.8 gulp-webpack@1.5.0 gulp-zip@3.2.0 gulp.spritesmith@6.4.0 imagemin-pngquant@5.0.1 merge-stream@1.0.1 minimist@1.2.0 proxy-middleware@0.15.0 url@0.11.0 webpack@1.13.3 --save-dev
+```
 
 ### 选装cnpm 
 
