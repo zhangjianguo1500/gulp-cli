@@ -80,7 +80,11 @@ PC端项目，我们推荐使用Gulp，Gulp基于nodejs中stream，工作流，�
 
 基础安装结束
 ```
-npm install babel-core@6.18.2 babel-loader@6.2.8 babel-plugin-syntax-export-extensions@6.13.0 babel-plugin-transform-es2015-modules-commonjs@6.24.1 babel-plugin-transform-es3-member-expression-literals@6.8.0 babel-plugin-transform-es3-property-literals@6.8.0 babel-plugin-transform-jscript@6.8.0 babel-plugin-transform-object-assign@6.8.0 babel-plugin-transform-runtime@6.15.0 babel-plugin-transform-undefined-to-void@6.8.0 babel-preset-es2015@6.18.0 babel-preset-es2015-loose@8.0.0 babel-preset-stage-0@6.24.1 browser-sync@2.18.2 browserify@13.1.1 del@2.2.2 glob@7.1.1 gulp@3.9.1 gulp-autoprefixer@3.1.1 gulp-babel@6.1.2 gulp-cache@0.4.6 gulp-clean@0.3.2 gulp-eslint@3.0.1 gulp-file-include@1.1.0 gulp-htmlmin@3.0.0 gulp-if@2.0.2 gulp-imagemin@3.3.0 gulp-minify-css@1.2.4 gulp-notify@2.2.0 gulp-plumber@1.1.0 gulp-sass@2.3.2 gulp-sequence@0.4.6 gulp-traceur-compiler@1.1.4 gulp-uglify@2.1.2 gulp-util@3.0.8 gulp-webpack@1.5.0 gulp-zip@3.2.0 gulp.spritesmith@6.4.0 imagemin-pngquant@5.0.1 merge-stream@1.0.1 minimist@1.2.0 proxy-middleware@0.15.0 url@0.11.0 webpack@1.13.3 --save-dev
+npm install babel-core babel-loader babel-plugin-syntax-export-extensions babel-plugin-transform-es2015-modules-commonjs babel-plugin-transform-es3-member-expression-literals babel-plugin-transform-es3-property-literals babel-plugin-transform-jscript babel-plugin-transform-object-assign babel-plugin-transform-runtime babel-plugin-transform-undefined-to-void babel-preset-es2015 babel-preset-es2015-loose babel-preset-stage-0 browser-sync browserify del glob gulp gulp-autoprefixer gulp-babel gulp-cache gulp-clean gulp-eslint gulp-file-include gulp-htmlmin gulp-if gulp-imagemin gulp-minify-css gulp-notify gulp-plumber gulp-sass gulp-sequence gulp-traceur-compiler gulp-uglify gulp-util gulp-webpack gulp-zip gulp.spritesmith imagemin-pngquant merge-stream minimist proxy-middleware url webpack --save-dev
+```
+
+```
+npm install gulp-sass gulp-autoprefixer gulp-minify-css gulp-uglify gulp-notify gulp-clean gulp-file-include gulp-imagemin imagemin-pngquant gulp-cache gulp-zip gulp-htmlmin merge-stream gulp-util gulp-plumber gulp-babel gulp-if gulp-sequence gulp-eslint del --save-dev
 ```
 
 ### 选装cnpm 
